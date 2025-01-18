@@ -30,10 +30,6 @@ GSIs:
 
 **Prerequisites:** Students should have mastery over content from COMPSCI 189, COMPSCI 182, COMPSCI 180/280A.
 
-<!-- Please see the [syllabus](https://cs280-berkeley.github.io/resources/CS_280_Spring_2024_Syllabus.pdf) for the course email address. To keep discussions organized, please do not email the instructor or GSIs directly. We will not reply to any course-related emails except at this address.
-We are using Ed Discussion for communication (private or public) as much as possible.
-**Magical course textbook that isn't  actually out:** [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) by Antonio Torralba, Phillip Isola and William T. Freeman.  -->
-
 ## Lectures
 
 Lecture slides will be posted after leture. Schedule is tentative.
@@ -63,20 +59,10 @@ Lecture slides will be posted after leture. Schedule is tentative.
 * Lecture 22: (4/21) [Vision and Navigation]()
 * Lecture 23: (4/23) [Vision and Locomotion]()
 * Lecture 24: (4/28) [Vision and Manipulation]()
-* Lecture 25: (4/28) [Finale]()
-
-<!-- * Lecture 17: (4/17) Exam (duh duh duh) -->
-<!-- ## Assignments
-
-All questions should be asked on Ed or in OH. All assignments will be submitted to bcourses.  -->
-
-<!-- * [HW1 is out!](https://edstem.org/us/courses/54175/discussion/4183683) Due Monday, Feb 5th at 11:59pm
-* [HW2 is out!](https://edstem.org/us/courses/54175/discussion/4417564) Due Monday, March 5th at 11:59pm
-* [HW3 is out!](https://edstem.org/us/courses/54175/discussion/4685142) Due Tuesday, April 9th at 11:59pm -->
+* Lecture 25: (4/30) [Finale]()
 
 ## Assignments
 * [HW0 (will be released 1/22)](https://edstem.org/us/courses/54175/discussion/4417564): Due Tuesday, 2/04 at 11:59pm
-
 
 ## Additional Materials
 
