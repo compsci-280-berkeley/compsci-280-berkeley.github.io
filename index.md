@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# CS 280, Computer Vision (Spring 2025)
+# CS C280, Computer Vision (Spring 2025)
 
 ## Logistics
 
 UC Berkeley, Spring 2025  
-Time: Monday, Wednesday 12:30PM - 1:59PM  
+Time: Monday, Wednesday 2:00PM - 3:29PM  
 Location: 1102 Berkeley Way West
 
 Instructors:   
@@ -28,7 +28,7 @@ GSIs:
 
 **Policy:** Please see the [syllabus (not yet available)]() for the course email address. To keep discussions organized, please do not email the instructor or GSIs directly. We are using Ed Discussion for communication (private or public) as much as possible.
 
-**Prerequisites:** Students should have mastery over content from COMPSCI 189, COMPSCI 182, COMPSCI 180/280A.
+**Prerequisites:** Students should have mastery over content from COMPSCI 189, COMPSCI 182, COMPSCI 180/280A. We will not be teaching basic image processing (convolution, gaussian smoothing, fourier transforms), basic deep learning (PyTorch, Jax, TensorFlow), stereo/homography.
 
 ## Lectures
 
