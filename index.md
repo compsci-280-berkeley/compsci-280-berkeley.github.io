@@ -26,7 +26,7 @@ GSIs:
 - Rahul: TBD
 - Ryan: TBD
 
-**Email policy:** To keep discussions organized, please do not email the instructor or GSIs directly. We are using Ed Discussion for communication (private or public) as much as possible.
+**Policy:** Please see the [syllabus (not yet available)]() for the course email address. To keep discussions organized, please do not email the instructor or GSIs directly. We are using Ed Discussion for communication (private or public) as much as possible.
 
 **Prerequisites:** Students should have mastery over content from COMPSCI 189, COMPSCI 182, COMPSCI 180/280A.
 
@@ -75,7 +75,7 @@ All questions should be asked on Ed or in OH. All assignments will be submitted 
 * [HW3 is out!](https://edstem.org/us/courses/54175/discussion/4685142) Due Tuesday, April 9th at 11:59pm -->
 
 ## Assignments
-* [HW0 (will be released 1/22)](https://edstem.org/us/courses/54175/discussion/4417564) Due Tuesday, 2/04 at 11:59pm
+* [HW0 (will be released 1/22)](https://edstem.org/us/courses/54175/discussion/4417564): Due Tuesday, 2/04 at 11:59pm
 
 
 ## Additional Materials
